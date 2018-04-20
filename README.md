@@ -1,5 +1,7 @@
 # tanakh
 
+![](https://raw.githubusercontent.com/mattn/vscode-tanakh/master/screenshot.gif)
+
 ```
 (´･_･`)
 ```
