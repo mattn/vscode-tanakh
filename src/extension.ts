@@ -42,6 +42,7 @@ class Tanakh {
     }
 
     stop() {
+        clearInterval(this._timer);
         this._statusBarItem.dispose();
     }
 }
