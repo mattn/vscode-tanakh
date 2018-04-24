@@ -1,11 +1,12 @@
 {
 	"name": "tanakh",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "mattn",
 	"description": "(´･_･`)",
 	"author": {
 		"name": "Yasuhiro Matsumoto (a.k.a. mattn)"
 	},
+	"icon": "images/tanakh.png",
 	"categories": [
 		"Other"
 	],
